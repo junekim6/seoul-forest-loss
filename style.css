@@ -10,7 +10,7 @@
 }
 
 #headline {
-    font-family: 'Roboto', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 33px;
     line-height: 120%;
     font-weight: 700;
@@ -38,4 +38,20 @@
     line-height: 120%;
     font-weight: 400;
     margin-bottom: 1%;
+ }
+
+.quoteblock {
+    background-color: rgb(229, 240, 247);
+    padding: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.quote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 120%;
+    font-weight: 400;
+    margin-bottom: 0%;
  }
