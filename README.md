@@ -2,7 +2,7 @@
 Read the story here: [Seoul's Forested Oases Are Disappearing. Rampant Housing Development Is To Blame.](https://junekim6.github.io/seoul-forest-loss/).
 
 ## Overview
-This project explores the history of Seoul's forest lands. By compiling available data, the story explains how more than 5,500 hectares of forest lands were destroyed due to housing development projects in the city. The story brings attention to the issue and provide insights and recommendations for preserving the remaining forests.
+This project examines the history of Seoul's forest lands. By compiling available data, the story explains how more than 5,500 hectares of forest lands were destroyed due to housing development projects in the city. The story brings attention to the issue and details the challenges and suggestions for preserving the remaining forests.
 
 ## Data Analysis and Reporting
 The project includes data analysis of the forest land area and new housing development.
