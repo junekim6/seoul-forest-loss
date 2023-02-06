@@ -34,7 +34,7 @@
             width: 100%;
             padding-left: 7%;
             padding-right: 8%;
-            padding-top: 51vh;
+            padding-top: 42vh;
         }
 
         .header {
@@ -99,7 +99,7 @@
         }
 
         h1.headline {
-            font-size: 4rem;
+            font-size: 3.5rem;
             line-height: 1.1;
             margin-bottom: 0.25rem;
             margin-top: 1rem;
