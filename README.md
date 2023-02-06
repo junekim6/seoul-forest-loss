@@ -1,16 +1,14 @@
-# Seoul's Disappearing Forests Project
+# Seoul's Disappearing Forests
 Read the story [here](https://junekim6.github.io/seoul-forest-loss/).
 
 ## Overview
-This project explores te history of Seoul's forest lands. By compiling available data, the story explains how mre than 5,500 hectaresof forest lands were destroyed due to housing development projects in the city. The story brings attention to the issue and provide insights and recommendations for preserving the remaining forests.
+This project explores te history of Seoul's forest lands. By compiling available data, the story explains how more than 5,500 hectares of forest lands were destroyed due to housing development projects in the city. The story brings attention to the issue and provide insights and recommendations for preserving the remaining forests.
 
 ## Data Analysis and Reporting
-The project includes a comprehensive analysis of data related to Seoul's forests, including information on deforestation rates, reasons for forest loss, and the impact on local wildlife and ecosystems. This information was gathered from various sources, including interviews with experts in South Korea.
+The project includes data analysis of 
+### Data Sources
 
 ## Methodology
-- 
-
-## Folders
 - 
 
 ## Tools Used
