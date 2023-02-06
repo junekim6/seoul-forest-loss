@@ -16,7 +16,7 @@ The project includes data analysis of the forest land area and new housing devel
 
 ![a graph of Seoul's forest changes](chart1.png)
 
-### Interviewees
+### People Interviewed
 - Han Bong-Ho, Professor at the University of Seoul School of Landscape Architecture
 - Kim Jin-Tae, Avid hiker and member of a hiking club in Seoul.
 
