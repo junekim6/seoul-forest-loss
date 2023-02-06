@@ -1,5 +1,5 @@
 # Seoul's Disappearing Forests
-Read the story [here](https://junekim6.github.io/seoul-forest-loss/).
+Read the story here: [Seoul's Forested Oases Are Disappearing. Rampant Housing Development Is To Blame.](https://junekim6.github.io/seoul-forest-loss/).
 
 ## Overview
 This project explores te history of Seoul's forest lands. By compiling available data, the story explains how more than 5,500 hectares of forest lands were destroyed due to housing development projects in the city. The story brings attention to the issue and provide insights and recommendations for preserving the remaining forests.
