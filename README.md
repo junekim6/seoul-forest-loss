@@ -22,6 +22,7 @@ The project includes data analysis of the forest land area and new housing devel
 
 ## Folders
 `data-analysis` folder includes all notebooks for data cleaning and exploratory visualizations.
+`docs` folder includes all things you see on the story web page.
 
 ## Tools Used
 - Google Earth Pro
