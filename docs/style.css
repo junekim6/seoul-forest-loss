@@ -313,6 +313,18 @@
         /* mobile */
         @media (max-width:700px) {
 
+            .banner {
+                background-image: url('photos/2022.jpg');
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+                height: 60vh;
+                width: 100%;
+                padding-left: 7%;
+                padding-right: 8%;
+                padding-top: 9vh;
+            }
+
             .chart-row {
                 display: block;
             }
@@ -329,28 +341,34 @@
                 padding: 0;
             }
 
-            .banner {
-                padding-top: 20vh;
-            }
-
             p.kicker{
                 font-size: 1rem;
             }
 
             h1.headline {
-                font-size: 2.3rem;
+                font-size: 2.2rem;
             }
 
             h2.subhead {
-                font-size: 1.3rem;
+                font-size: 1.2rem;
+                line-height: 125%;
             }
 
             .slider{
                 height: 260px
             }
 
-            .body-text {
-                font-size: 0.8rem;
+            .byline {
+                font-size: 1rem;
+            }
+
+            p.body-text {
+                font-size: 1.12rem;
+                line-height: 130%;
+            }
+
+            p.note {
+                font-size: 1rem;
             }
         }
     
