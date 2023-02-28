@@ -245,10 +245,12 @@
         }
 
         .slider {
-            display: flex;
+            /* display: flex; */
             flex-wrap: wrap;
             max-width: 1100px;
             margin: 0 auto;
+            position:relative;
+            display:block;
         }
 
          /* blockquote */
@@ -331,12 +333,24 @@
                 padding-top: 20vh;
             }
 
+            p.kicker{
+                font-size: 1rem;
+            }
+
             h1.headline {
-                font-size: 2.5rem;
+                font-size: 2.3rem;
             }
 
             h2.subhead {
                 font-size: 1.3rem;
+            }
+
+            .slider{
+                height: 260px
+            }
+
+            .body-text {
+                font-size: 0.8rem;
             }
         }
     
